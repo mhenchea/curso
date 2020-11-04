@@ -1,1 +1,4 @@
-Hola nuevo fichero!!!
+Hola nuevo fichero!!
+Cambio 1!
+
+Cambio 2!
